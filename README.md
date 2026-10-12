@@ -1,4 +1,4 @@
-# Hi, I'm Francisco 👋
+# Hi, I'm Francisco!
 
 I'm a Computer Engineering graduate from the University of Minho, interested in Software Engineering, Artificial Intelligence and Large Language Models (LLMs).
 
@@ -31,7 +31,7 @@ During my degree, I worked on projects involving distributed systems, computer n
 * Software Engineering
 * Artificial Intelligence and LLMs
 * Distributed Systems and Computer Networks
-* Interactive Systems
+* Game development using Unity and/or UE
 
 ## Languages
 
@@ -39,4 +39,5 @@ During my degree, I worked on projects involving distributed systems, computer n
 * English — Fluent
 * Spanish — Intermediate
 
-Feel free to check out my repositories!
+Feel free to check out my other repositories as well!
+If you have any questions feel free to contact me using the social media links in my profile!
