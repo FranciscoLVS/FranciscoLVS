@@ -12,7 +12,7 @@ During my degree, I worked on projects involving distributed systems, computer n
 
 * **[Distributed Time-Series System](https://github.com/FranciscoLVS/SD-SistemaSeriesTemporais)** — A concurrent client-server system developed in Java for managing time-series data. The project involved communication protocols, synchronisation, multiple simultaneous users and data persistence.
 
-* **[SO-CLIENTSERVER](https://github.com/FranciscoLVS/SO-CLIENTSERVER)** — A document indexing and search service developed in C on Linux, using FIFOs for inter-process communication, parallel search and caching.
+* **[CLIENTSERVER-INDEXER](https://github.com/FranciscoLVS/SO-CLIENTSERVER)** — A document indexing and search service developed in C on Linux, using FIFOs for inter-process communication, parallel search and caching.
 
 ## Technologies
 
