@@ -14,7 +14,7 @@ During my degree, I worked on projects involving distributed systems, computer n
 
 * **[CLIENTSERVER-INDEXER](https://github.com/FranciscoLVS/SO-CLIENTSERVER)** — A document indexing and search service developed in C on Linux, using FIFOs for inter-process communication, parallel search and caching.
 
-## Technologies
+## Stack
 
 **Languages:** Python, Java, C, C#, JavaScript, SQL
 
